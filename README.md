@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hyrtsi
+- 👋 Hi, I’m [Eljas](https://hyrtsi.github.io)
 - 👀 I’m interested in parallel computing and graphics
 - 🌱 I’m currently learning CUDA and TensorRT
 - 💞️ I’m looking to collaborate on ML repositories and my bicycle route planner
